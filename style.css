@@ -1,0 +1,17 @@
+.container {
+  text-align: center;
+}
+p {
+  color: black;
+  padding: 5px;
+  font-family: "Times New Roman", Georgia, Serif;
+}
+h1 {
+  color: blue;
+}
+.background {
+  background-color: black;
+}
+h2 {
+  font-style: italic;
+}
